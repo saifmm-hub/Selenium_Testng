@@ -1,0 +1,17 @@
+/Users/saifmm/Documents/Selenium Automation/selenium-testng-framework/src/test/java/deel_automation/context/Constants.java
+/Users/saifmm/Documents/Selenium Automation/selenium-testng-framework/src/test/java/deel_automation/context/WebDriverContext.java
+/Users/saifmm/Documents/Selenium Automation/selenium-testng-framework/src/test/java/deel_automation/factory/PageinstancesFactory.java
+/Users/saifmm/Documents/Selenium Automation/selenium-testng-framework/src/test/java/deel_automation/listeners/LogListener.java
+/Users/saifmm/Documents/Selenium Automation/selenium-testng-framework/src/test/java/deel_automation/listeners/ReportListener.java
+/Users/saifmm/Documents/Selenium Automation/selenium-testng-framework/src/test/java/deel_automation/methods/CommonMethods.java
+/Users/saifmm/Documents/Selenium Automation/selenium-testng-framework/src/test/java/deel_automation/methods/SalaryInsightMethod.java
+/Users/saifmm/Documents/Selenium Automation/selenium-testng-framework/src/test/java/deel_automation/pages/BasePage.java
+/Users/saifmm/Documents/Selenium Automation/selenium-testng-framework/src/test/java/deel_automation/pages/SalaryInsightPage.java
+/Users/saifmm/Documents/Selenium Automation/selenium-testng-framework/src/test/java/deel_automation/report/ExtentReportManager.java
+/Users/saifmm/Documents/Selenium Automation/selenium-testng-framework/src/test/java/deel_automation/tests/BaseTest.java
+/Users/saifmm/Documents/Selenium Automation/selenium-testng-framework/src/test/java/deel_automation/tests/SalaryInsightTests.java
+/Users/saifmm/Documents/Selenium Automation/selenium-testng-framework/src/test/java/deel_automation/tests/TestRunner.java
+/Users/saifmm/Documents/Selenium Automation/selenium-testng-framework/src/test/java/deel_automation/tests/test.java
+/Users/saifmm/Documents/Selenium Automation/selenium-testng-framework/src/test/java/deel_automation/util/LoggerUtil.java
+/Users/saifmm/Documents/Selenium Automation/selenium-testng-framework/src/test/java/deel_automation/util/ReportUtil.java
+/Users/saifmm/Documents/Selenium Automation/selenium-testng-framework/src/test/java/deel_automation/util/TestProperties.java

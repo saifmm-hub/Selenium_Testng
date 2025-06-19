@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="5" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-19T15:15:20 GST" name="Default suite" finished-at="2025-06-19T15:16:16 GST" duration-ms="56127">
+    <groups>
+    </groups>
+    <test started-at="2025-06-19T15:15:20 GST" name="Default test" finished-at="2025-06-19T15:16:16 GST" duration-ms="56127">
+      <class name="deel_automation.tests.SalaryInsightTests">
+        <test-method is-config="true" signature="globalSetup()[pri:0, instance:deel_automation.tests.SalaryInsightTests@659499f1]" started-at="2025-06-19T15:15:20 GST" name="globalSetup" finished-at="2025-06-19T15:15:20 GST" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- globalSetup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:deel_automation.tests.SalaryInsightTests@659499f1]" started-at="2025-06-19T15:15:20 GST" name="setup" finished-at="2025-06-19T15:15:24 GST" duration-ms="4117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setupmethods()[pri:0, instance:deel_automation.tests.SalaryInsightTests@659499f1]" started-at="2025-06-19T15:15:24 GST" name="setupmethods" finished-at="2025-06-19T15:15:24 GST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupmethods -->
+        <test-method signature="testAccountantInBrazil()[pri:1, instance:deel_automation.tests.SalaryInsightTests@659499f1]" started-at="2025-06-19T15:15:24 GST" name="testAccountantInBrazil" description="Validate salary insights for Accountant in Brazil" finished-at="2025-06-19T15:16:03 GST" duration-ms="38650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAccountantInBrazil -->
+        <test-method is-config="true" signature="setupmethods()[pri:0, instance:deel_automation.tests.SalaryInsightTests@659499f1]" started-at="2025-06-19T15:16:03 GST" name="setupmethods" finished-at="2025-06-19T15:16:03 GST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupmethods -->
+        <test-method signature="validatefilter()[pri:5, instance:deel_automation.tests.SalaryInsightTests@659499f1]" started-at="2025-06-19T15:16:03 GST" name="validatefilter" description="Verify Filters" finished-at="2025-06-19T15:16:16 GST" duration-ms="12800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatefilter -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:deel_automation.tests.SalaryInsightTests@659499f1]" started-at="2025-06-19T15:16:16 GST" name="tearDown" finished-at="2025-06-19T15:16:16 GST" duration-ms="263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="wrapAllUp(org.testng.ITestContext)[pri:0, instance:deel_automation.tests.SalaryInsightTests@659499f1]" started-at="2025-06-19T15:16:16 GST" name="wrapAllUp" finished-at="2025-06-19T15:16:16 GST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@66933239]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapAllUp -->
+      </class> <!-- deel_automation.tests.SalaryInsightTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
