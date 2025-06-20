@@ -32,7 +32,7 @@ public class SalaryInsightTests extends BaseTest {
     
 
     // Test Case 2: QA Engineer in Canada
-    @Test(priority = 2, description = "Validate salary insights for QA Engineer in Canada", enabled = false)
+    @Test(priority = 2, description = "Validate salary insights for QA Engineer in Canada")
     public void testEngineerInCanada() throws Exception {
     	sim.validateSalaryInsights(properties.getProperty("Role_2"), properties.getProperty("Country_2"));
     }
@@ -40,13 +40,13 @@ public class SalaryInsightTests extends BaseTest {
     
 
     // Test Case 3: Software Engineer in Japan
-    @Test(priority = 3, description = "Validate salary insights for Software Engineer in Japan", enabled = false)
+    @Test(priority = 3, description = "Validate salary insights for Software Engineer in Japan")
     public void testSoftwareEngineerInJapan() throws Exception {
     	sim.validateSalaryInsights(properties.getProperty("Role_3"), properties.getProperty("Country_3"));
     }
     
     
-    @Test(priority = 4, description = "Validate dropdown", enabled = false)
+    @Test(priority = 4, description = "Validate dropdown")
     public void validatedropdown() throws Exception {
   //  	sim.Dropdowntest(properties.getProperty("Role_3"), properties.getProperty("Country_3"));
     	int index = 121;
@@ -54,7 +54,7 @@ public class SalaryInsightTests extends BaseTest {
     }
     
     
-    @Test(priority = 5, description = "Verify Filters")
+    @Test(priority = 5, description = "Verify Filters", enabled = false)
     public void validatefilter() throws Exception {
  
 		sim.validatefilter(properties.getProperty("Role_4"));
